@@ -1,0 +1,19 @@
+_G.Name = game.Players.LocalPlayer.Name
+    if
+    _G.Name == "astasleader" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+    _G.Name == "" or
+        _G.Name == ""
+    then
+print("White listed Success")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaimodiss/GalazyHubbbbb/main/galazy.lua"))()
+    end
